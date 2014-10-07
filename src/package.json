@@ -1,0 +1,23 @@
+{
+  "name":           "syno-dl",
+  "productName":    "Synology Downloader",
+  "version":        "0.0.1",
+  "main":           "main.js",
+  "repository": {
+    "type":         "git",
+    "url":          "https://github.com/jluchiji/syno-dl"
+  },
+  "bugs": {
+    "url": "https://github.com/jluchiji/syno-dl/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/jluchiji/syno-dl/raw/master/LICENSE"
+    }
+  ],
+  "atomShellVersion": "0.17.1",
+  "dependencies": {
+    "coffee-script": "1.7.0"
+  }
+}
