@@ -1,0 +1,16 @@
+{
+  "name": "syno-dl",
+  "version": "0.0.1",
+  "description": "Synology Downloader",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.4.2"
+  }
+}

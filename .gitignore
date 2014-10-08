@@ -27,5 +27,8 @@ node_modules
 # Users Environment Variables
 .lock-wscript
 
-# Build directory
-build/*
+# Built distribution
+dist/*
+
+# Bower modules
+bower_components
